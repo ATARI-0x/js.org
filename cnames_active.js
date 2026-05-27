@@ -225,6 +225,7 @@ var cnames_active = {
   "aprende-react": "ptcc.github.io/aprende-react",
   "aptrinh": "aptrinh.github.io",
   "arc": "diegohaz.github.io/arc",
+  "arcatar": "arcatar.arcatar.workers.dev",
   "archipelago": "thephar.github.io/archipelago.js",
   "arcn": "alexakasanjeev.github.io/arcn",
   "arcatar": "arcatar.arcatar.workers.dev",
